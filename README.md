@@ -1,3 +1,3 @@
 # bupt
 bupt
-![image](https://user-images.githubusercontent.com/42057974/149720183-a21a583f-1585-4223-8d4b-b3b4cbd3aa3d.png)
+![image](https://user-images.githubusercontent.com/42057974/150903754-407f5067-2d3c-4413-9996-b9519e7c8285.png)
